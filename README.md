@@ -1,12 +1,17 @@
-### Bill Tennant
+# Bill Tennant
 
-Founder at [Northbeam Solutions](https://northbeam.solutions) — building **QAE** (https://QAESubstrate.com), a deterministic safety certification kernel for autonomous systems.
+**AI architect translating business intent into production systems.**
 
-**What QAE does**: Certifies agent actions *before* execution against constraint channels (budget, rate, scope, reversibility, sensitivity), producing auditable SHA-256 hashed certificates. Not a guardrail — a pre-execution verification engine.
+Founder of [Northbeam Solutions](https://northbeam.solutions), a founder-led AI strategy, architecture, and delivery consultancy.
 
-**Ship it**:
-```bash
-pip install qae-safety
-```
+Enterprise AI pilots often die in the gap between the strategy deck and the production system. I work across that gap: strategy, architecture, delivery, and adoption.
 
-📦 [PyPI](https://pypi.org/project/qae-safety/) · 🔬 [Research](https://doi.org/10.6084/m9.figshare.31742857) · 🌐 [qaesubstrate.com](https://www.qaesubstrate.com) · 📝 [Architecture deep-dive](https://www.qaesubstrate.com/blog/deterministic-certification-for-autonomous-systems.html)
+## Start here
+
+[**2-Day Rapid Assessment**](https://northbeam.solutions/rapid-assessment)  
+A focused way to clarify what to build, where the real constraints are, and whether to build, partner, or wait.
+
+## Connect
+
+- [Northbeam Solutions](https://northbeam.solutions)
+- [X: @BillTennantAI](https://x.com/BillTennantAI)
